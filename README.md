@@ -3,7 +3,7 @@
 I am a Computer Science & Engineering undergraduate and aspiring software engineer based in Dhaka, Bangladesh. I focus on building robust backend systems, modular object-oriented software, and embedded IoT pipelines.
 
 ### 🎓 Background
-* **Education:** B.Sc. in Computer Science & Engineering at IUBAT (Spring 2024 – Present)[cite: 7].
+* **Education:** B.Sc. in Computer Science & Engineering at IUBAT (Spring 2024 – Present).
 * **Core Focus:** Relational Database Design, Object-Oriented Architecture, and Computer Vision Inference.
 
 ### 💻 Technical Stack
