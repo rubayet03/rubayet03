@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Rubayate Hasan
 
-<!--
-**rubayet03/rubayet03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science & Engineering undergraduate and aspiring software engineer based in Dhaka, Bangladesh. I focus on building robust backend systems, modular object-oriented software, and embedded IoT pipelines.
 
-Here are some ideas to get you started:
+### 🎓 Background
+* **Education:** B.Sc. in Computer Science & Engineering at IUBAT (Spring 2024 – Present)[cite: 7].
+* **Core Focus:** Relational Database Design, Object-Oriented Architecture, and Computer Vision Inference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Stack
+* **Languages:** C, C++, Python, PHP, JavaScript, HTML5, CSS3.
+* **Databases & Frameworks:** MySQL (InnoDB), Ultralytics YOLOv8, OpenCV, Tailwind CSS.
+* **Tools & Hardware:** Git, Linux (Apache), ESP32 Core.
+
+### 📂 Selected Projects
+* **[Fabric Inventory ERP](https://github.com/rubayet03):** A role-restricted warehouse management system with a 3NF-normalized MySQL schema and automated procurement workflows (PHP, MySQL).
+* **[IoT Fruit Detection System](https://github.com/rubayet03):** A distributed vision pipeline streaming frames from an ESP32-CAM to a local GPU host for YOLOv8m inference (Python, C++).
+* **[Smart Irrigation Simulation](https://github.com/rubayet03):** A modular software simulation utilizing runtime polymorphism and hysteresis control logic (C++).
+
+### 🔗 Connect
+* **Portfolio:** [rubayet03.github.io](https://rubayet03.github.io/)
+* **Email:** [rubayethassan98@gmail.com](mailto:rubayethassan98@gmail.com)
